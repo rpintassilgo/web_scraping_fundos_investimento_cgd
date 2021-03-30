@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#echo "Hello, $(whoami)!"
+wget -O ~/scriptProjeto/fundos_CGD_DATA.html 'https://www.cgd.pt/Particulares/Poupanca-Investimento/Fundos-de-Investimento/Pages/CotacoeseRendibilidades.aspx'
+
+if [ "$
